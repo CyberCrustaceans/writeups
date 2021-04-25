@@ -4,7 +4,7 @@
 Category: Crypto
 > Wow! Aplet sent me a message... he said he encrypted it with a key, but lost it. Gotta go though, I have biology homework!
 > 
-> [Source](https://files.actf.co/45d2f41c58c51d0e7eeeac6b4fae4b01fca1427bd8e8d2cf5a127b8d7abfcdee/chall.py) [Output](https://files.actf.co/8125825ae0a5c81fe0f3e4520b95c02937a4d6624929afec84e451366ede6552/out.txt)
+> [Source](https://github.com/CyberCrustaceans/writeups/tree/main/angstromCTF/2021/keysar_v2/chall.py) [Output](https://github.com/CyberCrustaceans/writeups/tree/main/angstromCTF/2021/keysar_v2/out.txt)
 > 
 > Author: EvilMuffinHa  
   
