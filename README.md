@@ -1,5 +1,5 @@
 # writeups
-CTF write-ups the team competes in are uploaded or linked here.  
+CTF write-ups the team competes in are uploaded here.  
   
 ## Team
  - Anthony Perry
