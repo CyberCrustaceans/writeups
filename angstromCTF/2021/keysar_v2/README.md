@@ -10,7 +10,7 @@ Category: Crypto
   
 ## How to Solve it:
 
-This is a keyed cipher, but my team and I were too stupid to figure that out, so we came up with a different, mostly non-computer way.  
+This is a keyed cipher, but I was too stupid to figure that out, so we came up with a different, mostly non-computer way.  
   
 A long time ago, I had a cipher book which taught me a few ciphers like Caesar, Pigpen, and Vigenère ciphers. A straight up Caesar cipher didn't work for this challenge, so I thought back to one of the strangest things I read from that book.  
   
