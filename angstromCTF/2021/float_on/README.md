@@ -3,7 +3,7 @@
 Category: Misc.
 
 > I cast my int into a double the other day, well nothing crashed, sometimes life's okay.  
-> We'll all float on, anyway: [float_on.c](https://github.com/enh-code/CTF-writeups/edit/main/angstromCTF/2021/float_on.c).  
+> We'll all float on, anyway: [float_on.c](https://github.com/CyberCrustaceans/writeups/blob/main/angstromCTF/2021/float_on/float_on.c).  
 > 
 > Author: solomonu (branding by kmh)
 
@@ -139,7 +139,7 @@ In binary, this would be `011111111110000000000000000000000000000000000000000000
 The final test: `(1 + x) - 1 != 1 + (x - 1)`.
 
 Had this been an equal sign, any real number would have solved this. However, it's Angstrom, so we can't have anything super easy. But we do have one tool that always comes in handy when logic dies in front of our face: `NaN`.  
-We've already established that -1 is a great way to achieve `NaN`, so in the grinder it goes!
+We've already established that -1 is a great way to achieve `NaN`, so in the grinder it goes!  
 `Stage 5: -1`
 
 ## Flag
